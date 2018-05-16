@@ -1,0 +1,11 @@
+/home/lvega/dkr/bin/Debug/netcoreapp2.0/dkr.deps.json
+/home/lvega/dkr/bin/Debug/netcoreapp2.0/dkr.runtimeconfig.json
+/home/lvega/dkr/bin/Debug/netcoreapp2.0/dkr.runtimeconfig.dev.json
+/home/lvega/dkr/bin/Debug/netcoreapp2.0/dkr.dll
+/home/lvega/dkr/bin/Debug/netcoreapp2.0/dkr.pdb
+/home/lvega/dkr/obj/Debug/netcoreapp2.0/dkr.csprojAssemblyReference.cache
+/home/lvega/dkr/obj/Debug/netcoreapp2.0/dkr.csproj.CoreCompileInputs.cache
+/home/lvega/dkr/obj/Debug/netcoreapp2.0/dkr.AssemblyInfoInputs.cache
+/home/lvega/dkr/obj/Debug/netcoreapp2.0/dkr.AssemblyInfo.cs
+/home/lvega/dkr/obj/Debug/netcoreapp2.0/dkr.dll
+/home/lvega/dkr/obj/Debug/netcoreapp2.0/dkr.pdb
